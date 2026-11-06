@@ -1,0 +1,10 @@
+{
+  "perfis": ["perfil_do_concorrente_1", "perfil_do_concorrente_2"],
+  "modo": "poucas",
+  "qtd_videos": 30,
+  "dias": 180,
+  "idade_minima_poucas": 14,
+  "max_por_perfil": 6,
+  "prefixo": "CV",
+  "marcar_samsung": false
+}

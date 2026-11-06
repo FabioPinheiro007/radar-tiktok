@@ -1,0 +1,11 @@
+config.json
+videos/
+.env
+.env.*
+*.pem
+*.key
+*.mp4
+*.m4a
+__pycache__/
+.venv/
+.DS_Store
